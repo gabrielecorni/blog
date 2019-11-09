@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Gabriele Corni's blog
 description         : >-                               # >- means to ignore newlines until "url:"
-                      I help dreamers to reach Neptune.
+                      I help dreamers to reach Neptune, the farthest planet from Earth.
                       
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
