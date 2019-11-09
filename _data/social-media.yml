@@ -88,7 +88,7 @@ youtube:
 
 telegram:
   url   : https://www.t.me/
-  icon  : fab fa-telegram
+  icon  : fab fa-telegram-plane
   color : 00f3fe
   
 skype:
