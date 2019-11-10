@@ -1,17 +1,21 @@
-[![portfolYOU][header]](https://youssefraafatnasry.github.io/portfolYOU/)
+[![Gabriele Corni's blog][header]](https://gabrielecorni.github.io/blog/)
 
 <div align="center">
-    <i>A beautiful portfolio Jekyll theme that works with GitHub Pages.</i><br><br>
+    <i>My place in the Digital World.</i><br><br>
 </div>
 
-[![Preview][preview]](https://youssefraafatnasry.github.io/portfolYOU/)
+<!--
+[![Blog preview][preview]](https://gabrielecorni.github.io/blog/docs#installation)
+-->
 
 <div align="center">
     <sub><sup>© 2019 portfolYOU, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
 </div>
 
+<!--
 [![Get the theme][button]](https://youssefraafatnasry.github.io/portfolYOU/docs#installation)
+-->
 
-[header]: https://github.com/YoussefRaafatNasry/portfolYOU/blob/master/docs/Logo.png?raw=true
-[preview]: https://github.com/YoussefRaafatNasry/portfolYOU/blob/master/docs/Preview.gif?raw=true
-[button]: https://github.com/YoussefRaafatNasry/portfolYOU/blob/master/docs/Button.png?raw=true
+[header]: https://github.com/gabrielecorni/blog/blob/master/docs/Logo.png?raw=true
+[preview]: https://github.com/gabrielecorni/blog/blob/master/docs/Preview.gif?raw=true
+[button]: https://github.com/gabrielecorni/blog/blob/master/docs/Button.png?raw=true
