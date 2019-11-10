@@ -1,4 +1,9 @@
+<!--
 [![Gabriele Corni's blog][header]](https://gabrielecorni.github.io/blog/)
+-->
+<div align="center">
+    <img align="center" src="https://github.com/gabrielecorni/blog/blob/master/docs/Logo.png?raw=true" alt="Gabriele Corni's blog">
+</div>
 
 <div align="center">
     <i>My place in the Digital World.</i><br><br>
