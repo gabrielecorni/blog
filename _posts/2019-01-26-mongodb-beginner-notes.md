@@ -1,16 +1,14 @@
 ---
 title: MongoDB Beginner Notes
 tags: [MongoDB, NoSQL, HowTo, Notes]
-style: fill
-color: success
+style:
+color:
 description: A brief introduction to MongoDB: installation, database creation, how to query data.
 ---
 
 Source: [MongoDB Tutorial for Beginners](https://www.youtube.com/watch?v=GtD93tVZDX4&list=PLS1QulWo1RIZtR6bncmSaH8fB81oRl6MP)
 
-![Alt image](https://gabrielecorni.github.io/blog/docs/2019-01-26-mongodb-beginner-notes/mongodb_logo.png)
-
-# MongoDB Beginner Notes
+## MongoDB Beginner Notes
 
 ## Intro
 
