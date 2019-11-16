@@ -1,5 +1,5 @@
 ---
-title: A better Hello World
+title: MongoDB Beginner Notes
 tags: [Software Development]
 style: fill
 color: success
