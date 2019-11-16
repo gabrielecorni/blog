@@ -6,16 +6,18 @@ color: success
 description: A brief introduction to MongoDB. You will learn how to install it, create collections, query data.
 ---
 
+![](https://github.com/gabrielecorni/blog/blob/master/docs/2019-01-26-mongodb-notes/mongodb_logo.png?raw=true)
+
 Source: [MongoDB Tutorial for Beginners](https://www.youtube.com/watch?v=GtD93tVZDX4&list=PLS1QulWo1RIZtR6bncmSaH8fB81oRl6MP)
 
 ## Intro
 
 First distinction:
 
-- Relational databases (i.e. mysql, PostgreSQL, MS SQL Server): they have tables, rows, columns and a PK-FK relational structure relating data one another. Joins are necessary to put data together.
-- Non-Relational databases (i.e. NoSql databases): they mainly store documents, and lack relations.
+- Relational databases (i.e. MySQL, PostgreSQL, MS SQL Server): they have tables, rows, columns and a PK-FK relational structure relating data one another. Joins are necessary to put data together.
+- Non-Relational databases (i.e. NoSQL databases): they mainly store documents, and lack relations.
 
-MongoDB is a NoSql database. It has no relations, but binary json files not related to each other (BSON).
+MongoDB is a NoSQL database. It has no relations, but binary json files not related to each other (BSON).
 Here are its main characteristics:
 
 - simple query language (vs standardized SQL)
