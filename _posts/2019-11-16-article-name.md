@@ -1,11 +1,11 @@
 ---
-title: MongoDB Beginner Notes
-tags: [Notes]
+title: A better Hello World
+tags: [Software Development]
 style: fill
 color: success
-description: A brief introduction to MongoDB: installation, database creation, how to query data.
+description: A different “hello world” to demonstrate language features better.
 ---
 
-Source: [MongoDB Tutorial for Beginners](https://www.youtube.com/watch?v=GtD93tVZDX4&list=PLS1QulWo1RIZtR6bncmSaH8fB81oRl6MP)
+Source: [RICO STA. CRUZ](https://ricostacruz.com/til/a-better-hello-world)
 
-Lorem ipsum.
+The “Hello world” program is usually the first introduction to any programming language. It looks like this in the C programming language:
