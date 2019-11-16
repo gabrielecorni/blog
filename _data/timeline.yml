@@ -17,5 +17,6 @@
                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 - title: Born
-from: 1994
-description: I was born.
+  from: 1994
+  to: 
+  description: I was born.
