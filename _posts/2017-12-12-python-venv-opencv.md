@@ -6,7 +6,7 @@ color: success
 description: Set your Python environment up and start coding like a Jedi.
 ---
 
-![Alt image](https://gabrielecorni.github.io/blog/docs/2017-12-12-python-venv-opencv/py_cv_logo.png)
+![Alt image](https://gabrielecorni.github.io/docs/2017-12-12-python-venv-opencv/py_cv_logo.png)
 
 Do not mess with default versions, install every version you need in virtual environments.
 The typical guidelines to follow are:

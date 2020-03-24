@@ -6,7 +6,7 @@ color: success
 description: A brief introduction to MongoDB. You will learn how to install it, create collections, query data.
 ---
 
-![](https://github.com/gabrielecorni/blog/blob/master/docs/2019-01-26-mongodb-notes/mongodb_logo.png?raw=true)
+![](https://gabrielecorni.github.io/docs/2019-01-26-mongodb-notes/mongodb_logo.png?raw=true)
 
 Source: [MongoDB Tutorial for Beginners](https://www.youtube.com/watch?v=GtD93tVZDX4&list=PLS1QulWo1RIZtR6bncmSaH8fB81oRl6MP)
 
