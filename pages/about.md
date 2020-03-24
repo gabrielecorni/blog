@@ -18,7 +18,7 @@ I like to sing, but I am not a pop star. I like to eat, but I am not a chef. I l
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
---->
+-->
 
 <div class="row">
 {% include about/timeline.html %}
