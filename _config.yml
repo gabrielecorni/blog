@@ -9,6 +9,9 @@ baseurl             : ""                                      # subpath of your 
 repository          : gabrielecorni/gabrielecorni.github.io   # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
 #remote_theme       : YoussefRaafatNasry/portfolYOU           # uncomment this if you are using it as a remote theme
 
+### Google Analytics services ###
+google_analytics    : UA-161754548-1
+
 ### Author Info ###
 author:
   name              : Gabriele Corni
