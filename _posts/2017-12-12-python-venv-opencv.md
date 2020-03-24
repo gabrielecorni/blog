@@ -2,7 +2,7 @@
 title: Python Cheatsheet (+OpenCV)
 tags: [Notes, HowTo, Python]
 style: fill
-color: info
+color: success
 description: Set your Python environment up and start coding like a Jedi.
 ---
 
