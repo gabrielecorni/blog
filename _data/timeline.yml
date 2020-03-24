@@ -1,14 +1,24 @@
-- title: R&D Engineer
-  from: 2018
+- title: As a career trainer
+  from: 2019
   to: present
-  description: Lorem ipsum.
+  description: Undoubtedly, one of my top-3 lifetime choices. To help younger people by sharing my prior experiences gives my life its greatest purpose.
 
-- title: Student
+- title: As a worker
+  from: 2017
+  to: present
+  description: I started my career in 2017 as a Software Developer. As of today, I have changed three different workplaces, I have learnt a lot of things, but I still lack proper seating at a desk.
+
+- title: As a student
   from: 2008
   to: 2018
-  description: Lorem ipsum.
+  description: I studied accounting and computer engineering. In 2013, I had my very first argument with a professor. The topic? My final High School grade. A legend tells that he was wrong.
+
+- title: Initiation
+  from: 2010
+  to: 2010
+  description: I completed my first bench press rep. I wish I hadn't, as now it is nearly impossible for me to stop working out at the gym.
 
 - title: Birth
   from: 1994
-  to:
-  description: I was born in March. As an Aries, I am precise and stubborn, but I also have flaws.
+  to: 1994
+  description: I was born in March. Being an Aries, I am precise and stubborn, but I also have flaws.
