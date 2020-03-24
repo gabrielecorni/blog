@@ -2,5 +2,5 @@
 layout: null
 title: <i class="fab fa-1x fa-github"></i>
 weight: 6
-external_url: https://github.com/gabrielecorni/blog
+external_url: https://github.com/gabrielecorni/gabrielecorni.github.io
 ---
